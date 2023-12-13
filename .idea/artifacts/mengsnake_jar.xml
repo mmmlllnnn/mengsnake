@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="mengsnake:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mengsnake_jar</output-path>
+    <root id="archive" name="mengsnake.jar">
+      <element id="module-output" name="mengsnake" />
+    </root>
+  </artifact>
+</component>
